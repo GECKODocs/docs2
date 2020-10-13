@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/docs2/',
   favicon: 'img/gecko-icon.png',
   organizationName: 'GECKODocs', // Usually your GitHub org/user name.
-  projectName: 'docs', // Usually your repo name.
+  projectName: 'docs2', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'GECKO',
@@ -17,14 +17,14 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/gs1',
-          activeBasePath: 'docs',
+          to: 'docs2/gs1',
+          activeBasePath: 'docs2',
           label: 'Docs',
           position: 'right',
         },
         {to: 'blog', label: 'Blog', position: 'right'},
         {
-          to: 'docs/api1',
+          to: 'docs2/api1',
           label: 'API',
           position: 'right',
         },
@@ -38,11 +38,11 @@ module.exports = {
           items: [
             {
               label: 'Getting Started',
-              to: 'docs/gs1',
+              to: 'docs2/gs1',
             },
             {
               label: 'Project',
-              to: 'docs/pr1',
+              to: 'docs2/pr1',
             },
           ],
         },
