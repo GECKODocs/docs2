@@ -1,0 +1,114 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. // #f7b945 */ 
+:root {
+  --ifm-color-primary: #006cff;
+  --ifm-color-accent: #ff9f00;
+  --ifm-color-white: #ffffff;
+  --ifm-color-black: #060b1f;
+  --ifm-color-united-blue: #4c98ff;
+}
+
+.docusaurus-highlight-code-line {
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+.hero.hero--primary {
+  display: flex;
+  --ifm-hero-background-color: var(--ifm-color-black);
+}
+
+.hero_title_accent {
+  color: var( --ifm-color-white);
+}
+
+.hero__title {
+  color: var(--ifm-color-accent);
+}
+
+
+.button.button--lg {
+  border: 2px solid;
+  border-color: var(--ifm-color-united-blue);
+  color: #fff;
+  line-height: 1.2em;
+  text-decoration: none!important;
+  text-transform: uppercase;
+  border-radius: 8px;
+  font-size: 24px;
+  font-weight: 700;
+  padding: 18px 36px;
+}
+
+.button.button--lg:hover{
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-accent);
+}
+
+.gecko{
+  max-width: 200px;
+  animation-name: geckoMove;
+  -webkit-animation-name: geckoMove;
+  -webkit-animation-duration: 1.5s;
+  animation-duration: 1.5s;
+}
+
+@media screen and (max-width:450px){
+.hero .hero__title {
+  font-size: 1.5rem;
+}
+.gecko{
+  width: 120px;
+}
+}
+@media screen and (min-width:450px){
+
+  .hero .hero__title {
+    font-size: 2.5rem;
+  }
+  .gecko{
+    float: none;
+    max-width: 200px;
+  }
+}
+
+
+@media screen and (min-width:990px){
+  .hero .hero__title {
+    font-size: 4rem;
+  }
+  }
+
+
+
+  
+
+  @keyframes geckoMove{
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(.1) rotate(30deg);
+    transform: scale(.1) rotate(30deg);
+    -webkit-transform-origin: center bottom;
+    transform-origin: center bottom;
+}
+50% {
+    -webkit-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+}
+70% {
+    -webkit-transform: rotate(3deg);
+    transform: rotate(3deg);
+}
+100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+  }
