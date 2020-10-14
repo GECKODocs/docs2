@@ -1,5 +1,5 @@
 ---
-id: pr1
+id: projects
 title: Project Overview
 sidebar_label: Project
 ---
@@ -8,56 +8,66 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Projects
 
-Once you click on ‘Projects’ from the navigation pane you have the option to Browse Projects, view Workflows, Categories, Statuses, Clients and Tags.
+Once you hover on 'Projects' in the navigation menu, you have the option to Browse Projects, view Workflows, Categories, Clients and Tags.
+
 <img alt="Projects" src={useBaseUrl('img/browseProjects.png')}/>
 
 ## Browse Projects
 
-This area allows you to oversee the Projects assigned to you.
-You can navigate into each Project, ‘Add Project’ and filter to view Projects / Funds by Category.
+This area allows you to oversee the Projects assigned to you. You can navigate into each Project, 'Add Project' and filter to view Projects / Funds by Category.
 
 Click on any project to view.
 <img alt="Browse-Categories" src={useBaseUrl('img/allCat.png')}/>
 
 ## Create Project
 
-Add a new Project by clicking ‘Add Project’ on the Browse Projects screen.
-
+Add a new Project by clicking 'Add Project' on the Browse Projects screen.
 A pop-up screen will appear where you enter or select the following data:
+
 
 - **Project Title**
 - **Category**
-- **Group**
 - **Template**
 - **Client**
 - **Start Date**
 - **Due Date**
 - **Description**
-- **Status**
 
 :::important Note 
-If category ‘Fund’ has been selected, a variety of Fund specific data fields will be displayed to be filled in.
+If category 'Fund' has been selected, a variety of Fund specific data fields will be displayed.
 :::
 
 You can then click **‘Start Project’**.
 
 ## Project Details
 
-In the screenshot below, we have clicked into the project ‘ABC Investment Funds plc’ displaying the underlying Project workflow which shows all tasks associated with that fund.
-
+In the screenshot below, we have clicked into the project 'CP86 Oversight' displaying the underlying Project workflow, which shows all tasks associated with that fund.
 
 The left-hand column displays the Project / Fund Details.
 
+Click into any task to view its details.
+
+
 <img alt="Static-Data" src={useBaseUrl('img/staticData.png')}/>
 
+## Registers
 
-Click into any task to view its details.
+In the project details section, you will find the Registers. In the example provided, we have chosen a Register of Directors. 
+
+Registers are easily created or edited to suit your needs. e.g. Register of Complaints, Register of Beneficial Owners, Authorised Signatory List, to name a few.
+
+
+## Fund Details Dropdown
+
+Where Project category ‘Fund’ has been selected, a dropdown of Fund related data will be displayed.
+
 
 ## Drag and Drop
 
 Drag and drop tasks into different stages of the workflow.
 
 Users assigned to a task will receive email updates as you drag and drop their task into different stages of the workflow.
+
 <img alt="Drag Tasks" src={useBaseUrl('img/drag.png')}/>
 
 
@@ -89,49 +99,67 @@ You can then click ‘**Add Task**’.
 
 ## Update Tasks
 
-You can simply **click** on a task to view it.
+You can **click** on a task to view it.
 
-When you’re on the Task View screen you can make updates by clicking on a specific field then clicking the Tick to save your changes.
+When you're on the Task View screen, you can make updates by clicking on a specific field then clicking the Tick to save your changes. Tooltips have been added to help you update the different fields.
 
-Depending on your permission level, you can update the following: 
-- **Title**
-- **Status**
-- **Due Date**
+You can access previously archived tasks linked to the one you are working on, in the left-hand panel.
+
+Depending on your permission level, you can update and view the following:
+
+- **Title - Name**
+- **Due Date - Set**
 - **Add / Remove Assignees**
-- **Milestone**
-- **Repetition Time**
-- **Description**
+- **Milestone - Assign**
+- **Repetition Time - Set**
+- **Description - Write**
+- **Files - Upload** 
+- **Discussion - Comment**
+- **Checklist - Create**
+- **Tags - Add/Delete**
+- **Calls - Schedule**
+- **Audit - View**
+- **Subtasks - Create/ View**
 
-<img alt="Drag Tasks" src={useBaseUrl('img/taskEdit.png')}/>
+
+**Description**
+All the additional details relating to a task in a project can go in here, which includes links,
+references and other texts.
+
+To insert a **link** in the **Description** field:
+- Click on the **link icon** in the Description menu bar and select **Insert link**
+- Copy and paste link URL into the **URL textbox**
+- In the Text field, type the link text as you want it to appear in the Description
+- Click **Confirm** to save your link
+
 
 **File Upload**
 You can upload any files / documents related to the task by simply ‘**dragging and dropping**’ or clicking ‘**Drop files here to upload**’.
 
-**Messaging**
-You can leave a message on the right-hand side of the Task View screen, that all users assigned to the task can read.
+**Discussion**
+You can leave a comment on the bottom of the Task View screen, that all users assigned to the task can read.
 
 **Checklist / To-Do List**
-As mentioned above, you can create a Checklist / To Do List within the task to track smaller related items.
+As mentioned above, you can create a Checklist / To-Do List within the task to track smaller related items.
 
 :::tip best practise
 The Checklist / To-Do list functionality allows you to assign specific users to an individual checklist item.
 :::
 
-**Tags**
-You can add multiple Tags to a task. This powerful functionality makes it easy to search for or aggregate across tasks for reporting purposes.
+**Tags** 
+You can add multiple tags to a task. This powerful functionality makes it easy to search for or aggregate across tasks for reporting purposes.
 
 <img alt="Drag Tasks" src={useBaseUrl('img/tag&Upload.png')}/>
 
-:::important note 
-To insert a link in the **Description** field first highlight the word/s you wish to contain the link, then click on the link icon on the top right of the Description field. From here click the **Insert link** button. You will be provided with 4 textboxes - **URL, Text, Title, Target**. Paste/type your link into the URL textbox. The **Text** textbox is the highlighted text that contains your hyperlink. The other 2 fields can be left blank. Click **Confirm** to insert your link.
-To open a link that is already present right click and click 'Open Link in New Tab'.
-:::
+
+**Calls** 
+Schedule video conferencing meetings for your Board meetings.
 
 **Task Audit Trail**
 Each task has its own audit trail which tracks all updates made to that specific task.
 
 :::important Note
-Audit trail stores all the addition and edit ever made to any project/task. There's a seperate tab available too if wish to just obtain audits on different project/task.
+The Audit trail stores all keystrokes and updates ever made to a Project/Task.  A separate Audit menu item tab is available if you wish to obtain a more comprehensive Audit across all Projects.
 :::
 
 <img alt="Drag Tasks" src={useBaseUrl('img/auditTrail.png')}/>
@@ -151,7 +179,7 @@ On the GECKO platform, you **won’t be able to close the parent task until all 
 
 ## Recurring Tasks
 
-The GECKO platform allows you to create an individual task that recurs at specified time intervals. 
+The GECKO platform allows you to create an individual task that recurs at specified time intervals.
 
 **When should I create a recurring task?**
 
@@ -169,7 +197,7 @@ When the Due Date has been reached..
 
 **OR**
 
-When I click Complete on the task..
+on clicking 'Complete' in the task..
 
 :::important note 
 It’s worth noting here that if the original task contained any subtasks, the **same structure of ‘Parent task and its Subtasks’ will be created in the new task**.
@@ -178,7 +206,7 @@ It’s worth noting here that if the original task contained any subtasks, the *
 If the due date has been reached OR you have clicked Complete on a task, then **a new task will automatically be created with a new adjusted due date**. 
 
 :::warning warning 
-As the new task gets created, the previous task automatically gets **archived** and will be **removed** from the Project Workflow Stage, or column.
+As the new task gets created, the previous task automatically gets **archived** and will be **hidden from view** in the Project Workflow Stage, or column.
 :::
 
 ## Archived Tasks
@@ -192,9 +220,11 @@ You can view an archived task by clicking on the **current or ‘in progress’ 
 
 ## Workflows
 
-Workflows give companies the opportunity to **examine their internal processes** and group them into **baskets or collections of related tasks**.
+Workflows allows organisations to **examine their internal processes** and group them into **baskets or collections of related tasks**.
 
-On the GECKO platform, we encourage our clients to sit down and take the time to **evaluate their internal business processes** and **group them into similar baskets**. These baskets become the ‘**Workflow Stages**’. In this way a task is generally only moved to another column after initial setup if it is more appropriate to group it in a different basket of work. 
+:::tip Best Practices
+On the GECKO platform, we encourage our clients to sit down and take the time to **evaluate their internal business processes** and **group them into similar baskets**. These baskets become the ‘**Workflow Stages**’. 
+:::
 
 You can create workflows by clicking the ‘**Add Workflow**’ button.
 
@@ -211,13 +241,6 @@ Within the Categories section you can also create the milestones associated with
 You can Add new Categories or update and delete existing Categories.
 
 
-## Statuses
-
-You can add new Task Statuses by clicking ‘**Add Status**’.
-
-Filter your status search by using the search functionality.
-
-
 ## Clients
 
 You can add new Clients by clicking ‘**Add Client**’.
@@ -229,7 +252,11 @@ Filter your client search by using the search functionality.
 
 You can add new Tags by clicking ‘**Add Tag**’.
 
+When adding a Tag to a task - click in the tag field, select tag from the dropdown and click update tags.
+
 Filter your tag search by using the search functionality.
 
-
+:::tip Best Practise
+We recommend to use tags as much as possible on tasks as it can give users an additional way to filter out tasks and generate report on them for specific user.
+::: 
 

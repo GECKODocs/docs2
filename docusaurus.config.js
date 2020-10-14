@@ -17,14 +17,14 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/gs1',
+          to: 'docs/getting_started',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'right',
         },
         {to: 'blog', label: 'Blog', position: 'right'},
         {
-          to: 'docs/api1',
+          to: 'docs/api',
           label: 'API',
           position: 'right',
         },
@@ -38,11 +38,11 @@ module.exports = {
           items: [
             {
               label: 'Getting Started',
-              to: 'docs/gs1',
+              to: 'docs/getting_started',
             },
             {
               label: 'Project',
-              to: 'docs/pr1',
+              to: 'docs/projects',
             },
           ],
         },

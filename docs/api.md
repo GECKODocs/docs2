@@ -1,5 +1,5 @@
 ---
-id: api1
+id: api
 title: Getting Started With The API
 sidebar_label: API Manual
 ---

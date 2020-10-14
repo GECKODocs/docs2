@@ -1,5 +1,5 @@
 ---
-id: fol1
+id: folder
 title: Document Repository Overview
 sidebar_label: Document Repository
 ---
@@ -8,7 +8,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Folder Structure
 
-The Document Repository allows you to **access and download digitally stored documents** that relate to specific tasks within your processes.
+The Document Repository allows you to **access and download digitally stored documents** that relate to specific tasks within your processes Workflows.
 
 Documents are stored within a folder structure. You can **quickly drill down to find the documents** you require.
 
