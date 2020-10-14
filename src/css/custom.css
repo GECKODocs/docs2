@@ -60,6 +60,11 @@
   animation-duration: 1.5s;
 }
 
+.footer{
+
+  background-color: var(--ifm-color-black);
+}
+
 @media screen and (max-width:450px){
 .hero .hero__title {
   font-size: 1.5rem;
