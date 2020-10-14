@@ -12,7 +12,7 @@ const main = [ {
   imageUrl: 'img/onboarding.svg',
   description: (
     <>
-       To make your onboarding experience great we are using best User Experience practices to get you up and 
+       Make your onboarding experience great, we are using best practices to get you up and 
        running on the <a target="_blank" href="https://www.geckogovernance.io/"><b>GECKO</b></a> application. We also provide full 
        support of other business elements like compliance, regulation, and consultation.
     </>
@@ -23,7 +23,7 @@ const features = [
  
   {
     title: <>Up To Date</>,
-    imageUrl: 'img/docsUpdated.svg',
+    imageUrl: 'img/gecko_Docs.svg',
     description: (
       <>
         Constantly updated with every newly released features 🚀 or bugs 🐛.
@@ -32,7 +32,7 @@ const features = [
   },
   {
     title: <>Help Is Just A Click Away</>,
-    imageUrl: 'img/devSupport.svg',
+    imageUrl: 'img/active_Support.svg',
     description: (
       <>
         Full support provided shall you feel lost or need any extra video
@@ -40,6 +40,26 @@ const features = [
       </>
     ),
   },
+  {
+    title: <>Updated UI Design</>,
+    imageUrl: 'img/updated_Design.svg',
+    description: (
+      <>
+        New UI design component updated dashboard and reporting which is outcome of
+        behavior science to make you more productive.
+      </>
+    )
+  },
+  {
+    title: <>Personalised Graphs</>,
+    imageUrl: 'img/graphs.svg',
+    description: (
+      <>
+        Now keep an eye on your personal set milestones by different available graphs and
+        see how can you improve yourself.
+      </>
+    )
+  }
 ];
 
 function Feature({imageUrl, title, description}) {
