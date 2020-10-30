@@ -4,7 +4,7 @@ title: Next Steps
 sidebar_label: Next Steps
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
+import ReactPlayer from 'react-player/lazy';
 
 ## Finalise User Setup
 
@@ -12,7 +12,14 @@ Please make sure to update your **username** and change your **avatar** as desir
 
 There are other fields available too, to keep your profile up to date.
 
-<img alt="On Signup" src={useBaseUrl('img/userDetails.png')}/>
+#### Avatar Setup
+  <ReactPlayer 
+  url='https://vimeo.com/473438000/c31dc5a39e'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
 
 :::tip Best Practise
 You are encouraged to fill in all available fields and keep your profile up to date.

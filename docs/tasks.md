@@ -4,7 +4,7 @@ title: Tasks (Previously Activity)
 sidebar_label: Tasks Overview
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
+import ReactPlayer from 'react-player/lazy';
 
 ## Task Filter
 
@@ -21,7 +21,6 @@ You can filter and search for tasks across a range of criteria, which include:
 - **Status**
 - **Date range**
 
-<img alt="Activity" src={useBaseUrl('img/activityInput.png')}/>
 
 ## Task Search
 
@@ -32,8 +31,16 @@ Click on an individual task name to further review the underlying task.
 If a task has been marked Complete – a timestamp will display the date and time of completion, along with the person who completed the task.
 
 
-<img alt="Activity Search" src={useBaseUrl('img/activitySearch.png')}/>
-
 :::tip Tip
 The search results returned in the grid can be exported to csv and pdf format for reporting purposes.
 :::
+
+#### Tasks Activity
+
+  <ReactPlayer 
+  url='https://vimeo.com/473805527/205de15129'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>

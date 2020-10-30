@@ -10,7 +10,7 @@ import ReactPlayer from 'react-player/lazy';
 
 Initial user setup on the GECKO platform is fast and easy. You will receive an **email invite**. Simply follow the link and fill in the relevant details. Once complete, you will be able to log in with your email and password.
 
-#### Video Demo
+#### First Steps
 
   <ReactPlayer 
   url='https://vimeo.com/473437163/9916d927d7'

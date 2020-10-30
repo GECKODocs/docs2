@@ -4,7 +4,7 @@ title: Users
 sidebar_label: Users
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
+import ReactPlayer from 'react-player/lazy';
 
 ## User Roles Management
 Here you can set up new users and set different user permissions/roles.
@@ -17,7 +17,6 @@ The Users dashboard displays the number of users, and their aliases in the syste
 
 You can **Add**, **Update** and **Remove** users depending on your permission level.
 
-<img alt="System-Users" src={useBaseUrl('img/systemUsers.png')}/>
 
 
 ## System Roles
@@ -29,4 +28,12 @@ You can use the **search** function to filter your search.
 Click ‘**Add System Role**’ to add a new Role or edit a Role by clicking the edit icon on a specific Role.
 
 
-<img alt="System-Users" src={useBaseUrl('img/systemUsers.png')}/>
+#### Users
+
+  <ReactPlayer 
+  url='https://vimeo.com/473806381/e7c2e172e5'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>

@@ -4,7 +4,7 @@ title: Document Repository Overview
 sidebar_label: Document Repository
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
+import ReactPlayer from 'react-player/lazy';
 
 ## Folder Structure
 
@@ -22,4 +22,12 @@ All documentation uploaded to that task will be displayed.
 **Note**: Task visibility is based on user permissions.
 
 
-<img alt="Folder" src={useBaseUrl('img/folder.png')}/>
+#### Documents Repo
+
+  <ReactPlayer 
+  url='https://vimeo.com/473819338/a03251705d'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>

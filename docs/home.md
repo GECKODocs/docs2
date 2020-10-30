@@ -4,7 +4,7 @@ title: Dashboard Overview
 sidebar_label: Dashboard Overview
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
+import ReactPlayer from 'react-player/lazy';
 
 ## Navigation Menu
 
@@ -12,8 +12,15 @@ To get started, the first thing to do while familiarising yourself with the GECK
 
 The menu can be hidden using the hamburger menu as a toggle' menu on/off' button.
 
-<img height="300px" alt="Navigation Menu" src={useBaseUrl('img/navigation.png')}/>
+#### Dashboard Navigation
 
+  <ReactPlayer 
+  url='https://vimeo.com/473796476/6015d5e9cf'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
 
 ## Main Dashboard
 
@@ -22,8 +29,6 @@ The menu can be hidden using the hamburger menu as a toggle' menu on/off' button
 - **Manage** fund Categories, Workflows and Users.
 - **Filter** by Project   
   - R.A.G Rating (Red, Amber, Green) piechart aggregation, filtering on Task Status within a specified Fund   or Project. i.e. A centralised, birdseye view of tasks that are Complete, In Progress or Overdue. Task visibility is based on user permissions.
-
-<img alt="Dashboard" src={useBaseUrl('img/dashboard.png')}/>
 
 
 ## Activities Pie Chart
@@ -38,7 +43,7 @@ Use the various filter functions or search functionality to optimise your search
 This pie chart is an example of a simple KPI. We can work with you to customise different graph types to help you gain maximum efficiency using the GECKO platform.
 :::
 
-## Task Status Timeline
+## Task Status Timeline Graph
 
 A new Dashboard **stacked** graph that displays a status aggregation of all tasks across all Projects, based on their Due Date.
 
@@ -46,6 +51,15 @@ You can **click** on a particular status colour to view the underlying tasks in 
 
 You can **filter** the graph by status using the status selectors above the graph.
 
+#### Timeline Graph
+
+  <ReactPlayer 
+  url='https://vimeo.com/473823739/77be787918'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
 
 :::note note
 Task visibility will depend on your permission level.

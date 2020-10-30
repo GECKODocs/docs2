@@ -4,7 +4,6 @@ title: Reports
 sidebar_label: Reports Overview
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## General Overview 
 
@@ -37,8 +36,6 @@ Using the Project Audit Report, you can g**enerate a report that displays an aud
 
 Select a project, choose a file format, optionally select a Date Range and click ‘**Generate**’.
 
-
-<img alt="Reports" src={useBaseUrl('img/report.png')}/>
 
 ## Tasks by Tag Report
 

@@ -4,7 +4,7 @@ title: Audits Overview
 sidebar_label: Audits Overview
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
+import ReactPlayer from 'react-player/lazy';
 
 ## Audits
 
@@ -15,9 +15,16 @@ A full audit trail of activity is available for each Project/Fund/Task with **ti
 The audit trail can be exported to **csv** and **pdf** format for reporting purposes.
 
 
-<img alt="DLT" src={useBaseUrl('img/dlt.png')}/>
-
-
 :::tip Tip
 You can filter the Audit trail by Project, Task, Subtask, User and Date range.
 :::
+
+#### Using Audits
+
+  <ReactPlayer 
+  url='https://vimeo.com/473806276/245b0be6e1'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>

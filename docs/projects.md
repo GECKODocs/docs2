@@ -4,20 +4,28 @@ title: Project Overview
 sidebar_label: Project
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
+import ReactPlayer from 'react-player/lazy';
 
 ## Projects
 
 Once you hover on 'Projects' in the navigation menu, you have the option to Browse Projects, view Workflows, Categories, Clients and Tags.
 
-<img alt="Projects" src={useBaseUrl('img/browseProjects.png')}/>
 
 ## Browse Projects
 
 This area allows you to oversee the Projects assigned to you. You can navigate into each Project, 'Add Project' and filter to view Projects / Funds by Category.
 
 Click on any project to view.
-<img alt="Browse-Categories" src={useBaseUrl('img/allCat.png')}/>
+
+#### Browsing Projects
+
+  <ReactPlayer 
+  url='https://vimeo.com/473797239/4490fe99da'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
 
 ## Create Project
 
@@ -39,6 +47,16 @@ If category 'Fund' has been selected, a variety of Fund specific data fields wil
 
 You can then click **‘Start Project’**.
 
+#### Project Creation
+
+  <ReactPlayer 
+  url='https://vimeo.com/473797337/00d7286910'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
+
 ## Project Details
 
 In the screenshot below, we have clicked into the project 'CP86 Oversight' displaying the underlying Project workflow, which shows all tasks associated with that fund.
@@ -47,8 +65,15 @@ The left-hand column displays the Project / Fund Details.
 
 Click into any task to view its details.
 
+#### Details
 
-<img alt="Static-Data" src={useBaseUrl('img/staticData.png')}/>
+  <ReactPlayer 
+  url='https://vimeo.com/473798021/54cd1a096a'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
 
 ## Registers
 
@@ -56,6 +81,15 @@ In the project details section, you will find the Registers. In the example prov
 
 Registers are easily created or edited to suit your needs. e.g. Register of Complaints, Register of Beneficial Owners, Authorised Signatory List, to name a few.
 
+#### Using Registers
+
+  <ReactPlayer 
+  url='https://vimeo.com/473797487/6aceba405e'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
 
 ## Fund Details Dropdown
 
@@ -68,10 +102,17 @@ Drag and drop tasks into different stages of the workflow.
 
 Users assigned to a task will receive email updates as you drag and drop their task into different stages of the workflow.
 
-<img alt="Drag Tasks" src={useBaseUrl('img/drag.png')}/>
 
 
+#### Dragging tasks across project
 
+  <ReactPlayer 
+  url='https://vimeo.com/473815125/353f3cc591'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
 
 
 ## Create a Task
@@ -94,7 +135,16 @@ At this point, you also have the ability to create a ***Checklist / To Do List**
 
 You can then click ‘**Add Task**’.
 
-<img alt="Drag Tasks" src={useBaseUrl('img/addNew.png')}/>
+#### Creating Tasks
+
+  <ReactPlayer 
+  url='https://vimeo.com/473798172/5d386bd2cd'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
+
 
 
 ## Update Tasks
@@ -149,7 +199,6 @@ The Checklist / To-Do list functionality allows you to assign specific users to 
 **Tags** 
 You can add multiple tags to a task. This powerful functionality makes it easy to search for or aggregate across tasks for reporting purposes.
 
-<img alt="Drag Tasks" src={useBaseUrl('img/tag&Upload.png')}/>
 
 
 **Calls** 
@@ -162,7 +211,15 @@ Each task has its own audit trail which tracks all updates made to that specific
 The Audit trail stores all keystrokes and updates ever made to a Project/Task.  A separate Audit menu item tab is available if you wish to obtain a more comprehensive Audit across all Projects.
 :::
 
-<img alt="Drag Tasks" src={useBaseUrl('img/auditTrail.png')}/>
+#### Updating Tasks
+
+  <ReactPlayer 
+  url='https://vimeo.com/473802898/e5b4a5080c'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
 
 ## Sub Tasks
 A subtask is essentially just like a **regular task** and has all the same fields and functionality, except for ‘Repetition Time’.
@@ -175,7 +232,16 @@ You would create one or more subtasks on a parent task in a scenario where you h
 
 On the GECKO platform, you **won’t be able to close the parent task until all underlying subtasks have been marked as Complete**.
 
-<img alt="Subtasks" src={useBaseUrl('img/subtasks.png')}/>
+#### Subtasks Demo
+
+  <ReactPlayer 
+  url='https://vimeo.com/473803999/32ca1d76ad'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
+
 
 ## Recurring Tasks
 
@@ -209,6 +275,16 @@ If the due date has been reached OR you have clicked Complete on a task, then **
 As the new task gets created, the previous task automatically gets **archived** and will be **hidden from view** in the Project Workflow Stage, or column.
 :::
 
+#### Recurring tasks
+
+  <ReactPlayer 
+  url='https://vimeo.com/473804464/22817ca1ee'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
+
 ## Archived Tasks
 
 A task gets archived only if it has been set up as a recurring task and the **due date has been reached** or an **assignee of the task has clicked Complete**.
@@ -217,6 +293,15 @@ A task gets archived only if it has been set up as a recurring task and the **du
 
 You can view an archived task by clicking on the **current or ‘in progress’ task in a recurring series of tasks**, then clicking on the ‘Previous Archived’ tab.
 
+#### Archiving
+
+  <ReactPlayer 
+  url='https://vimeo.com/473816239/5c72ead62b'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
 
 ## Workflows
 
@@ -232,6 +317,16 @@ You can also Edit/Delete existing workflows.
 
 All projects are created using workflows, you can use a workflow as a template when creating new Projects.
 
+#### Add Workflow
+
+  <ReactPlayer 
+  url='https://vimeo.com/473805332/3311bbfc50'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
+
 ## Categories
 
 A Category is essentially a '**type**' of **Project**. On the Browse Projects screen you can *filter **Projects** by Category*. 
@@ -240,12 +335,33 @@ Within the Categories section you can also create the milestones associated with
 
 You can Add new Categories or update and delete existing Categories.
 
+#### Add Categories
+
+  <ReactPlayer 
+  url='https://vimeo.com/473805388/8aa02ecb84'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
+
+
 
 ## Clients
 
 You can add new Clients by clicking ‘**Add Client**’.
 
 Filter your client search by using the search functionality.
+
+#### Add Clients
+
+  <ReactPlayer 
+  url='https://vimeo.com/473805424/a41a0cfcf0'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
 
 
 ## Tag Management
@@ -260,3 +376,12 @@ Filter your tag search by using the search functionality.
 We recommend to use tags as much as possible on tasks as it can give users an additional way to filter out tasks and generate report on them for specific user.
 ::: 
 
+#### Adding Tags
+
+  <ReactPlayer 
+  url='https://vimeo.com/473817843/c12648fcde'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
