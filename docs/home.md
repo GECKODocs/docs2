@@ -19,7 +19,6 @@ The menu can be hidden using the hamburger menu as a toggle' menu on/off' button
 
 - **Open Tasks** - Number of open tasks on the platform. Task visibility is based on user permissions.
 - **Completed Tasks** - Number of complete tasks on the platform. Task visibility is based on user permissions.
-- **Create** a New Project / Fund.
 - **Manage** fund Categories, Workflows and Users.
 - **Filter** by Project   
   - R.A.G Rating (Red, Amber, Green) piechart aggregation, filtering on Task Status within a specified Fund   or Project. i.e. A centralised, birdseye view of tasks that are Complete, In Progress or Overdue. Task visibility is based on user permissions.
