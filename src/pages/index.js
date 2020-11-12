@@ -26,7 +26,7 @@ const features = [
     imageUrl: 'img/gecko_Docs.svg',
     description: (
       <>
-        Constantly updated with every newly released features 🚀 or bugs 🐛.
+        Constantly updated with every newly released features 🚀... or bugs 🐛...
       </>
     ),
   },
@@ -35,8 +35,7 @@ const features = [
     imageUrl: 'img/active_Support.svg',
     description: (
       <>
-        Full support provided shall you feel lost or need any extra video
-        tutorials. Further open APIs are currently under construction.
+        Full support provided if you feel lost or need any extra video tutorials...
       </>
     ),
   },
@@ -45,8 +44,9 @@ const features = [
     imageUrl: 'img/updated_Design.svg',
     description: (
       <>
-        New UI design component updated dashboard and reporting which is outcome of
-        behavior science to make you more productive.
+        New UI design component, updated dashboard and reporting built on 
+        the back of behavioural science - creates fewer problems, increases 
+        user involvement, perfects functionality.
       </>
     )
   },
@@ -55,8 +55,8 @@ const features = [
     imageUrl: 'img/graphs.svg',
     description: (
       <>
-        Now keep an eye on your personal set milestones by different available graphs and
-        see how can you improve yourself.
+        Now, keep an eye on your personal milestones and performance with a visual 
+        representation and different graph options available...
       </>
     )
   }

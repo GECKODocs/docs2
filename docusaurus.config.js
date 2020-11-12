@@ -22,7 +22,7 @@ module.exports = {
           label: 'Docs',
           position: 'right',
         },
-        {to: 'blog', label: 'Blog', position: 'right'},
+        {to: 'https://geckogovernance.medium.com/', label: 'Blog', position: 'right'},
         {
           to: 'docs/api',
           label: 'API',
@@ -47,25 +47,18 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Blogs',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/',
+              label: 'Medium',
+              href: 'https://geckogovernance.medium.com/',
             },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/',
-            },
+            
           ],
         },
         {
           title: 'Social',
           items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
             {
               label: 'LinkedIn',
               href: 'https://www.linkedin.com/company/gecko-limited',
