@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: `.env.production`,
+})
+
 module.exports = {
   title: 'GECKO Docs',
   tagline: '',
@@ -72,6 +76,21 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} GECKO`,
     },
+
+    algolia: {
+      apiKey: process.env.ALGOLIA_KEY,
+      indexName: process.env.ALGOLIA_INDEX,
+
+      // Optional: see doc section bellow
+      contextualSearch: true,
+
+      // Optional: Algolia search parameters
+      searchParameters: { "facetFilters": ["tags:docs2"] },
+
+      //... other Algolia params
+
+    },
+
   },
   presets: [
     [
