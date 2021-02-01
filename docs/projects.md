@@ -228,7 +228,9 @@ You can create a subtask by clicking on ‘Add New Sub-task’ and following the
 
 **When should I create a subtask?**
 
-You would create one or more subtasks on a parent task in a scenario where you have a **large bucket of work or group of related processes that can be broken down into more manageable chunks of work**.
+- When you have a **large bucket of work** or group of related processes that **can be broken down** into more manageable **chunks of work**.
+- When you have an **umbrella or parent task** that can **remain open for a long duration** of time and subtasks that occur on an ad hoc basis.
+
 
 On the GECKO platform, you **won’t be able to close the parent task until all underlying subtasks have been marked as Complete**.
 
@@ -272,7 +274,7 @@ It’s worth noting here that if the original task contained any subtasks, the *
 If the due date has been reached OR you have clicked Complete on a task, then **a new task will automatically be created with a new adjusted due date**. 
 
 :::warning warning 
-As the new task gets created, the previous task automatically gets **archived** and will be **hidden from view** in the Project Workflow Stage, or column.
+When an **In Progress** recurring task gets marked as **Complete**, it will become **hidden** from view in the Project Workflow Stage, or column
 :::
 
 #### Recurring tasks
