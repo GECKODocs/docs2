@@ -33,3 +33,21 @@ User preferences depend on your **permission** level. If you have access to the 
 - Completing a task
 - Deleting a Checklist
 - Deleting a Checklist Item
+
+#### User Preferences configuration at task level
+  <ReactPlayer 
+  url='https://vimeo.com/511620204/e16bc1adf2'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
+
+#### User Preferences in 'My Profile'
+  <ReactPlayer 
+  url='https://vimeo.com/511611787/150611cd1f'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
