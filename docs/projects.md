@@ -100,6 +100,16 @@ Where Project category ‘**Fund**’ has been selected, a dropdown of Fund rela
 You can easily rearrange your Project workflow by **clicking and dragging** the top of a column. This functionality is dependent on your permission level.
 
 
+#### Project Kanban view with different dragging options
+
+  <ReactPlayer 
+  url='https://vimeo.com/511622624/0a0e89cf40'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
+
 ## Drag and Drop Tasks
 
 Drag and drop tasks into different stages of the workflow.
