@@ -165,23 +165,28 @@ You can **click** on a task to view it.
 
 When you're on the Task View screen, you can make updates by clicking on a specific field then clicking the Tick to save your changes. Tooltips have been added to help you update the different fields.
 
-You can access previously archived tasks linked to the one you are working on, in the left-hand panel.
 
 Depending on your permission level, you can update and view the following:
 
-- **Title - Name**
-- **Due Date - Set**
-- **Add / Remove Assignees**
-- **Milestone - Assign**
-- **Repetition Time - Set**
-- **Description - Write**
-- **Files - Upload** 
-- **Discussion - Comment**
-- **Checklist - Create**
-- **Tags - Add/Delete**
-- **Calls - Schedule**
-- **Audit - View**
-- **Subtasks - Create/ View**
+- **Title**
+- **Due Date**
+- **Period**
+- **Repetition Time**
+- **Assignees**
+- **Status**
+- **Description**
+- **Files** 
+- **Checklists**
+- **Tags**
+- **Calls**
+- **Audit**
+- **Priority**
+- **Subtasks**
+- **Discussion**
+
+:::tip tip
+You can use the task **Period** field to specify the **period of time the work relates to**. This enables you to search for and report on the task based on **when the work was carried out**, rather than on the Due Date of the task.
+:::
 
 
 **Description**
