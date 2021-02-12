@@ -93,10 +93,14 @@ Registers are easily created or edited to suit your needs. e.g. Register of Comp
 
 ## Fund Details Dropdown
 
-Where Project category ‘Fund’ has been selected, a dropdown of Fund related data will be displayed.
+Where Project category ‘**Fund**’ has been selected, a dropdown of Fund related data will be displayed.
+
+## Drag and Drop Workflow Columns
+
+You can easily rearrange your Project workflow by **clicking and dragging** the top of a column. This functionality is dependent on your permission level.
 
 
-## Drag and Drop
+## Drag and Drop Tasks
 
 Drag and drop tasks into different stages of the workflow.
 
@@ -131,6 +135,10 @@ A pop-up screen will appear where you enter or select the following data:
 
 :::important Note 
 At this point, you also have the ability to create a ***Checklist / To Do List***  within the task to track smaller related actions.
+:::
+
+:::tip tip
+**Priority**: We recommend using a priority level of **Medium for normal, day-to-day tasks**. Low and High priority can then be used accordingly. **Critical** would ideally be used on the **rare occasion** that a task merits such a priority. If the term Critical becomes overused - the word loses its meaning!
 :::
 
 You can then click ‘**Add Task**’.
@@ -287,13 +295,19 @@ When an **In Progress** recurring task gets marked as **Complete**, it will beco
 <br/>
 <br/>
 
-## Archived Tasks
+## Project Archiving
 
-A task gets archived only if it has been set up as a recurring task and the **due date has been reached** or an **assignee of the task has clicked Complete**.
+You can Archive a Project by clicking the **Project Options dropdown** and selecting ‘**Archive Project**’. An Archived label will be displayed on the Project.
 
-**How do I view Archived Tasks?**
+The tasks within your Archived Project will now remain in a **Read-Only** state until the Project is Unarchived. The tasks will no longer show up across the application or be included in reporting, i.e. on the Dashboard, on the Tasks quick finder tab, etc.
 
-You can view an archived task by clicking on the **current or ‘in progress’ task in a recurring series of tasks**, then clicking on the ‘Previous Archived’ tab.
+**How do I view Archived Projects?**
+
+You can view all Archived Projects by navigating to **Browse Projects** and clicking ‘**Archive**’.
+
+**How do I Unarchive a Project?**
+
+You can Unarchive a Project by clicking the **Project Options dropdown** and selecting ‘**Unarchive Project**’.
 
 #### Archiving
 
