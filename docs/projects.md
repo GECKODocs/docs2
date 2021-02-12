@@ -126,7 +126,7 @@ Add a new task by clicking ‘**Add New**’ within a Workflow Stage.
 A pop-up screen will appear where you enter or select the following data:
 
 - **Task Title**
-- **Milestone**
+- **Period**
 - **Repetition Time, i.e. Daily, Monthly, Annually**
 - **Due Date**
 - **Priority i.e. High, Low**
@@ -135,6 +135,10 @@ A pop-up screen will appear where you enter or select the following data:
 
 :::important Note 
 At this point, you also have the ability to create a ***Checklist / To Do List***  within the task to track smaller related actions.
+:::
+
+:::tip tip
+You can use the task **Period** field to specify the **period of time the work relates to**. This enables you to search for and report on the task based on **when the work was carried out**, rather than on the Due Date of the task.
 :::
 
 :::tip tip

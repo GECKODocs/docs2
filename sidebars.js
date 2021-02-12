@@ -3,7 +3,7 @@ module.exports = {
     "Getting Started": ["getting_started","next_steps"],
     "Dashboard": ["home"],
     "Projects": ["projects"],
-    "Activity" : ["tasks"],
+    "Tasks" : ["tasks"],
     "Calendar" : ["calendar"],
     "Reports" : ["reports"],
     "Audits" : ["audits"],
