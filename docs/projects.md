@@ -238,7 +238,7 @@ The Audit trail stores all keystrokes and updates ever made to a Project/Task.  
 <br/>
 <br/>
 
-## Sub Tasks
+## Subtasks
 A subtask is essentially just like a **regular task** and has all the same fields and functionality, except for ‘Repetition Time’.
 
 You can create a subtask by clicking on ‘Add New Sub-task’ and following the steps above for creating a task.
