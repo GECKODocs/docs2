@@ -24,3 +24,12 @@ There are other fields available too, to keep your profile up to date.
 :::tip Best Practise
 You are encouraged to fill in all available fields and keep your profile up to date.
 :::
+
+## User Preferences
+
+
+User preferences depend on your **permission** level. If you have access to the User Preferences menu item, you can specify **whether or not to display a popup** alert when:
+
+- Completing a task
+- Deleting a Checklist
+- Deleting a Checklist Item
