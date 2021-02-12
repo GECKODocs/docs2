@@ -238,6 +238,12 @@ The Audit trail stores all keystrokes and updates ever made to a Project/Task.  
 <br/>
 <br/>
 
+## Task Bulk Update
+
+While we are building out the task bulk action functionality, you can now **select whether or not** you wish to **display a popup** when **completing a task** or **when deleting a checklist** or checklist item.
+
+This functionality is **only available to Admin and Manager** level users and can be accessed via the **task view screen** or via the personal **User Preferences** menu item.
+
 ## Subtasks
 A subtask is essentially just like a **regular task** and has all the same fields and functionality, except for ‘Repetition Time’.
 
