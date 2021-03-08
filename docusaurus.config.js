@@ -26,10 +26,10 @@ module.exports = {
           label: 'Docs',
           position: 'right',
         },
-        {to: 'https://geckogovernance.medium.com/', label: 'Blog', position: 'right'},
+        {to: 'https://geckogovernance.io/blogs', label: 'Blog', position: 'right'},
         {
-          to: 'docs/api',
-          label: 'API',
+          to: 'https://geckogovernance.io',
+          label: 'GECKO Home',
           position: 'right',
         },
       ],
@@ -44,14 +44,10 @@ module.exports = {
               label: 'Getting Started',
               to: 'docs/getting_started',
             },
-            {
-              label: 'Project',
-              to: 'docs/projects',
-            },
           ],
         },
         {
-          title: 'Blogs',
+          title: 'Blog',
           items: [
             {
               label: 'Medium',

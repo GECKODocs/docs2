@@ -9,7 +9,6 @@ module.exports = {
     "Audits" : ["audits"],
     "Folders" : ["folder"],
     "Users" : ["users"],
-    "API": ["api"]
     
   },
   
