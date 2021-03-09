@@ -1,7 +1,7 @@
 ---
 id: audits
 title: Audits Overview
-sidebar_label: Audits Overview
+sidebar_label: Overview
 ---
 
 import ReactPlayer from 'react-player/lazy';

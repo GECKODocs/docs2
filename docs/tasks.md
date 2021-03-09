@@ -1,7 +1,7 @@
 ---
 id: tasks
-title: Tasks (Previously Activity)
-sidebar_label: Tasks Overview
+title: Tasks
+sidebar_label: Overview
 ---
 
 import ReactPlayer from 'react-player/lazy';
@@ -43,16 +43,6 @@ The search results returned in the grid can be exported to csv and pdf format fo
 
   <ReactPlayer 
   url='https://vimeo.com/473805527/205de15129'
-  width="100%"
-  controls="true"/>    
-
-<br/>
-<br/>
-
-#### Tasks Period of Work
-
-  <ReactPlayer 
-  url='https://vimeo.com/511613422/259a1e8ee1'
   width="100%"
   controls="true"/>    
 

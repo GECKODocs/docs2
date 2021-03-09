@@ -1,13 +1,12 @@
 module.exports = {
   someSidebar: {
     "Getting Started": ["getting_started","next_steps"],
-    "Dashboard": ["home"],
-    "Projects": ["projects"],
+    "Dashboard": ["dashboard"],
+    "Projects": ["pre_configuration", "projects_overview", "project_tasks", "project_archiving"],
     "Tasks" : ["tasks"],
     "Calendar" : ["calendar"],
-    "Reports" : ["reports"],
     "Audits" : ["audits"],
-    "Folders" : ["folder"],
+    "Document Repository" : ["document_repository"],
     "Users" : ["users"],
     
   },

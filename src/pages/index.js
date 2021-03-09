@@ -8,13 +8,12 @@ import styles from './styles.module.css';
 
 
 const main = [ {
-  title: <>Full Onboarding Support</>,
+  title: <>Onboarding Support</>,
   imageUrl: 'img/onboarding.svg',
   description: (
     <>
-       Make your onboarding experience great, we are using best practices to get you up and 
-       running on the <a target="_blank" href="https://www.geckogovernance.io/"><b>GECKO</b></a> application. We also provide full 
-       support of other business elements like compliance, regulation, and consultation.
+      Get in touch with us with any questions or to discuss new business requirements 
+       <a target="_blank" href="https://www.geckogovernance.io/"><b> here</b></a> 
     </>
   ),
 },]
@@ -22,44 +21,25 @@ const main = [ {
 const features = [
  
   {
-    title: <>Up To Date</>,
+    title: <>Rapid Development Cycle</>,
     imageUrl: 'img/gecko_Docs.svg',
     description: (
       <>
-        Constantly updated with every newly released features 🚀... or bugs 🐛...
+        Our docs are continuously updated in line with new feature releases 🚀
       </>
     ),
   },
   {
-    title: <>Help Is Just A Click Away</>,
+    title: <>Need help or have any feedback?</>,
     imageUrl: 'img/active_Support.svg',
     description: (
       <>
-        Full support provided if you feel lost or need any extra video tutorials...
+        Use the search bar to help find what you are looking for or get in touch with us 
+        <Link
+          to={'https://geckogovernance.io/index.html#contact'}>&nbsp;here</Link>
       </>
     ),
   },
-  {
-    title: <>Updated UI Design</>,
-    imageUrl: 'img/updated_Design.svg',
-    description: (
-      <>
-        New UI design component, updated dashboard and reporting built on 
-        the back of behavioural science - creates fewer problems, increases 
-        user involvement, perfects functionality.
-      </>
-    )
-  },
-  {
-    title: <>Personalised Graphs</>,
-    imageUrl: 'img/graphs.svg',
-    description: (
-      <>
-        Now, keep an eye on your personal milestones and performance with a visual 
-        representation and different graph options available...
-      </>
-    )
-  }
 ];
 
 function Feature({imageUrl, title, description}) {
@@ -104,15 +84,8 @@ function Home() {
         <div className="container">
         <img alt="GECKO" class="gecko" src="img/gecko-white.png"></img>
           {/*<h1 className="hero__title">{siteConfig.title}</h1>*/}
-          <h1 className="hero__title">
-          Fetch 
-          <span className="hero_title_accent"> relevant </span>
-          documentation
-          <span className="hero_title_accent"> quickly</span>
-          , stay
-          <span className="hero_title_accent"> updated </span>
-          and get
-          <span className="hero_title_accent"> support</span>
+          <h1 className="hero__title">  
+          GECKO Docs
           </h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>

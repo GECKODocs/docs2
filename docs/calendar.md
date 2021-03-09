@@ -1,7 +1,7 @@
 ---
 id: calendar
 title: Calendar
-sidebar_label: Calendar
+sidebar_label: Overview
 ---
 
 import ReactPlayer from 'react-player/lazy';

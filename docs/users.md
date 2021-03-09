@@ -1,7 +1,7 @@
 ---
 id: users
 title: Users
-sidebar_label: Users
+sidebar_label: Overview
 ---
 
 import ReactPlayer from 'react-player/lazy';
@@ -13,7 +13,7 @@ The user menu gives you the option to **Browse users** and configure **System Ro
 
 ## Browse Users
 
-The Users dashboard displays the number of users, and their aliases in the system.
+The Users dashboard displays the number of users, and their usernames in the system.
 
 You can **Add**, **Update** and **Remove** users depending on your permission level.
 
