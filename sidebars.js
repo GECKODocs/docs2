@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    "Getting Started": ["getting_started","next_steps"],
+    "Getting Started": ["getting_started","next_steps","user_preferences"],
     "Dashboard": ["dashboard"],
     "Projects": ["pre_configuration", "projects_overview", "project_tasks", "project_archiving"],
     "Tasks" : ["tasks"],

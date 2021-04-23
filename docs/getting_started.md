@@ -6,10 +6,11 @@ sidebar_label: Getting started
 
 import ReactPlayer from 'react-player/lazy';
 
-## Initial Setup
+## User Setup
 
-Initial user setup on the GECKO platform is fast and easy. You will receive an **email invite**. Simply follow the link and fill in the relevant details. Once complete, you will be able to log in with your email and password.
+Getting set up on the GECKO platform is fast and easy. Simply follow the link in your **email invite** and fill in the relevant details. 
 
+Once complete, you will be able to log in with your email and password.
 #### First Steps
 
   <ReactPlayer 
@@ -20,10 +21,8 @@ Initial user setup on the GECKO platform is fast and easy. You will receive an *
 <br/>
 <br/>
 
-:::important Note
-If you encounter any issues signing up with the link, please request your admin to resend you another invite.
-:::
 
-:::caution Didn't get an invite
-If you don’t see the link in your inbox, please check your junk or spam folder.
+
+:::caution No invite, No worries
+If you can’t find the link in your inbox, please check your spam folder.
 :::
