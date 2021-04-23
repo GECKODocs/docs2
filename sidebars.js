@@ -7,7 +7,7 @@ module.exports = {
     "Reporting" : ["reporting"],
     "Calendar" : ["calendar"],
     "Audits" : ["audits"],
-    "Document Repository" : ["document_repository"],
+    "File Repository" : ["file_repository"],
     "Users" : ["users"],
     
   },

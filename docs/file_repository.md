@@ -1,12 +1,12 @@
 ---
-id: document_repository
-title: Document Repository Overview
+id: file_repository
+title: File Repository
 sidebar_label: Overview
 ---
 
 import ReactPlayer from 'react-player/lazy';
 
-## Folder Structure
+## Overview
 
 The Document Repository allows you to access and download digitally stored documents.
 
@@ -15,12 +15,13 @@ Documents are stored within a folder structure. You can **quickly drill down to 
 
 **How do I access the Document Repository?**
 
-On the **Document Repository** tab on the main navigation. To find specific files or documents you first **select a Project** and then **select the specific task** that the documents relate to.
+Navigate to the File Repository via the main menu. Select a workspace and the relevant task.
 
 All documentation uploaded to that task will be displayed.
 
-**Note**: Task visibility is based on user permissions.
-
+:::note
+Access is based on user permissions.
+:::
 
 #### Documents Repo
 

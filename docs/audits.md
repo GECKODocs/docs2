@@ -8,16 +8,26 @@ import ReactPlayer from 'react-player/lazy';
 
 ## Audits
 
-On the Audits page, you can view all **actions** and **updates** that have been carried out across all Projects by any user.
+- **Project**
+A dropdown field whereby audit entries for selected project will be displayed. All projects selected by default.
 
-A full audit trail of activity is available for each Project/Fund/Task with **time stamped** data on the work that was carried out.
+- **Task**
+A dropdown field whereby audit entries for a specific task in selected project will be displayed. All tasks selected by default.
 
-The audit trail can be exported to **csv** and **pdf** format for reporting purposes.
+- **Iteration**
+A dropdown field whereby audit entries for a specific iteration of selected task [if recurring] will be displayed. All iterations selected by default.
 
+- **Subtask**
+A dropdown field whereby audit entries for a specific subtask in selected task will be displayed. All subtasks selected by default.
 
-:::tip Tip
-You can filter the Audit trail by Project, Task, Subtask, User and Date range.
-:::
+- **User**
+A dropdown field whereby audit entries for a specific user assigned to selected task will be displayed. All assigned users selected by default.
+
+- **From**
+A date-picker whereby audit entries dated on or after the selected date will be displayed.
+
+- **To**
+A date-picker whereby audit entries dated on or before the selected date will be displayed.
 
 #### Using Audits
 
