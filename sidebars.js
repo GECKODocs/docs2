@@ -4,6 +4,7 @@ module.exports = {
     "Dashboard": ["dashboard"],
     "Workspaces": ["pre_configuration", "workspace_overview", "workspace_tasks", "workspace_archiving"],
     "Tasks" : ["tasks"],
+    "Reporting" : ["reporting"],
     "Calendar" : ["calendar"],
     "Audits" : ["audits"],
     "Document Repository" : ["document_repository"],
