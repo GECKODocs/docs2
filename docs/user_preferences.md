@@ -5,7 +5,7 @@ sidebar_label: User Preferences
 ---
 
 
-:::info Note
+:::note Note
 Access to User Preferences will depend on your permission level and is currently limited to Admin and Manager level users.
 :::
 

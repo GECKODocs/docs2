@@ -1,7 +1,7 @@
 ---
-id: project_tasks
-title: Project Tasks
-sidebar_label: Project Tasks 
+id: workspace_tasks
+title: Tasks
+sidebar_label: Tasks 
 ---
 
 import ReactPlayer from 'react-player/lazy';
@@ -95,9 +95,6 @@ The current Parent-Subtask structure is maintained in the next iteration of a re
 
 If the due date has been reached OR you have clicked Complete on a task, then **a new task will automatically be created with a new adjusted due date**. 
 
-:::warning warning 
-When an **In Progress** recurring task gets marked as **Complete**, it will become **hidden** from view in the Project Workflow Stage, or column
-:::
 
 #### Recurring tasks
 
@@ -108,3 +105,31 @@ When an **In Progress** recurring task gets marked as **Complete**, it will beco
 
 <br/>
 <br/>
+
+
+## Checklists
+We recommend the use of **checklists** where the full functionality of a task is not needed.
+
+Checklists allow you to break down tasks into smaller, actionable items.
+
+Once you build out your checklist structure, you can then **assign items** to the relevant resources.
+
+
+## Tags
+Tags are a core part of the GECKO platform.
+
+They enhance your ability to **locate, aggregate and report** on work carried out across the platform.
+
+Click into any task and navigate to the Tag section to label that task with a Tag.
+
+#### Example use cases:
+
+- **Red Flag**
+  Tag a task as a Red Flag issue and keep track of progress via the KPI filter sets.
+- **Reviewed**
+- **Issue Found**
+- **No Issue Found**
+
+Use the above example Tags when dealing with any issues that may have arisen from a task. 
+
+Again, these tagged tasks can be aggregated and presented at a board or committee meeting. Used in conjunction with task comments, this can be a powerful way of streamlining your reporting function.

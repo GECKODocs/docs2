@@ -6,25 +6,26 @@ sidebar_label: Overview
 
 import ReactPlayer from 'react-player/lazy';
 
-## Tasks by Project
+## Workspace Status
 
-You can **hover your mouse** over the **pie chart** to view the number of  **Overdue, In Progress and Completed** tasks. Click on the pie chart to be brought to the underlying collection of tasks.
+Select a **Workspace** in the dropdown and filter the graph using the status selectors.
 
-E.g. If you select ‘**Overdue**’, you are directed to the ‘**Tasks**’ page, where you can view all Overdue tasks in your selected Project.
-
-You can **filter** the graph by status using the status selectors above the graph. 
+Click on the **pie chart** to navigate to task selection on the Tasks page.
 
 :::tip tip
-This pie chart is an example of a simple KPI. We can work with you to customise different graph types to help you gain maximum efficiency using the GECKO platform.
+Please contact a member of the GECKO team to find out more about building bespoke KPIs that meet your specific requirements.
 :::
+
+## Add KPI
+
+Click **Add KPI** to enable KPIs on the dashboard. You will be able to add any KPI filter sets that you created on the **Tasks page**.
+
 
 ## Task Status Timeline Graph
 
-This is a **stacked** graph that displays a status aggregation of all tasks across all Projects, based on their Due Date
+This stacked graph displays a **status aggregation** of all tasks across all Workspaces, based on their due date.
 
-You can **click** on a particular status colour to view the underlying tasks in any of the graph columns.
-
-You can **filter** the graph by status using the status selectors above the graph.
+Filter the graph using the status selectors and click on a stack to navigate to task selection on the Tasks page.
 
 #### Timeline Graph
 
@@ -35,8 +36,3 @@ You can **filter** the graph by status using the status selectors above the grap
 
 <br/>
 <br/>
-
-:::note note
-Task visibility will depend on your permission level.
-Only an admin can turn the graph on or off in the workspace settings.
-:::

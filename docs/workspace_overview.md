@@ -1,18 +1,18 @@
 ---
-id: projects_overview
-title: Projects Overview
-sidebar_label: Projects Overview
+id: workspace_overview
+title: Overview
+sidebar_label: Overview
 ---
 
 import ReactPlayer from 'react-player/lazy';
 
-## Browse Projects
+## Browse Workspaces
 
 This area allows you to oversee the Projects assigned to you.  You can create Projects, view Archived Projects and filter view by Category.
 
 Click on any project to view.
 
-#### Browsing Projects
+#### Browsing workspaces
 
   <ReactPlayer 
   url='https://vimeo.com/473797239/4490fe99da'
@@ -22,7 +22,7 @@ Click on any project to view.
 <br/>
 <br/>
 
-## Create Project
+## Create Workspace
 
 :::important Note 
 Before creating a project, you need to create a Category, a Workflow and a Client.
@@ -30,7 +30,7 @@ Before creating a project, you need to create a Category, a Workflow and a Clien
 
 Click ‘Add Project’ and enter the relevant information.
 
-#### Project Creation
+#### Workspace Creation
 
   <ReactPlayer 
   url='https://vimeo.com/473797337/00d7286910'
