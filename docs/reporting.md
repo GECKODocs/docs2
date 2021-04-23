@@ -4,6 +4,7 @@ title: Reporting
 sidebar_label: Overview
 ---
 
+import ReactPlayer from 'react-player/lazy';
 
 The Reporting Engine is intended to be easy and intuitive to use, to allow you focus on what data you wish to display.
 
@@ -12,8 +13,6 @@ The Reporting Engine is intended to be easy and intuitive to use, to allow you f
 To create a new report, simply click **Add Report**.
 
 Enter a title and click **Save**.
-
-
 
 ## Add Section
 
@@ -36,3 +35,14 @@ Selecting a workspace in the dropdown will display high level summary data for t
 The filter sets you created on the Tasks page are displayed in the dropdown. Select Summary or Table view depending on how you wish to display the tasks.
 
 Your report will be available for preview in the pdf viewer, where you can print or download your report.
+
+
+#### Creating and using Reports
+
+  <ReactPlayer 
+  url='https://vimeo.com/540630100/9912b91809'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>

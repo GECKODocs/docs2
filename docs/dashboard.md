@@ -20,6 +20,16 @@ Please contact a member of the GECKO team to find out more about building bespok
 
 Click **Add KPI** to enable KPIs on the dashboard. You will be able to add any KPI filter sets that you created on the **Tasks page**.
 
+#### Using KPI
+
+  <ReactPlayer 
+  url='https://vimeo.com/540604943/0f164fd9ab'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
+
 
 ## Task Status Timeline Graph
 

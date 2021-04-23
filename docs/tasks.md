@@ -33,6 +33,16 @@ A checkbox allowing the option to only display tasks with comments.
 - **Tasks with files**
 A checkbox allowing the option to only display tasks with files attached.
 
+#### Tasks Filter
+
+  <ReactPlayer 
+  url='https://vimeo.com/540603871/2fa62e56b2'
+  width="100%"
+  controls="true"/>    
+
+<br/>
+<br/>
+
 ## Task Search
 
 Task search results are displayed on the Table tab.
