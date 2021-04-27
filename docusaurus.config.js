@@ -26,7 +26,7 @@ module.exports = {
           label: 'Docs',
           position: 'right',
         },
-        {to: 'https://geckogovernance.io/blogs', label: 'Blog', position: 'right'},
+        {to: 'https://geckogovernance.io/blog', label: 'Blog', position: 'right'},
         {
           to: 'https://geckogovernance.io',
           label: 'GECKO Home',
