@@ -43,7 +43,7 @@ A checkbox allowing the option to only display tasks with files attached.
 <br/>
 <br/>
 
-## Task Search
+## Table Tab
 
 Task search results are displayed on the Table tab.
 
@@ -55,7 +55,7 @@ If a task has been marked Complete – a timestamp will display the date and tim
 Use the multi-select Period dropdown to search for tasks within a specific quarter. i.e. Q1 - Jan, Feb, Mar.
 :::
 
-#### Tasks Activity
+#### Table Tab
 
   <ReactPlayer 
   url='https://vimeo.com/473805527/205de15129'
@@ -76,10 +76,11 @@ By default, the Group dropdown is set to None.
 
 Selecting an option in the **Group dropdown** will group the results of the Display dropdown.
 
-Without selecting any high level filters, sort by Status in the Display dropdown and group by Project in Group dropdown.
+:::info For example
+Without selecting any **high level filters**, sort by **Status** in the Display dropdown and group by **Project** in Group dropdown.
 
 A set of graphs of all tasks by status, across all projects will be displayed.
-
+:::
 
 ## Filter Sets
 
