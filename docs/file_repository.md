@@ -1,6 +1,6 @@
 ---
 id: file_repository
-title: File Repository
+title: File Repository Overview
 sidebar_label: Overview
 ---
 
@@ -8,22 +8,21 @@ import ReactPlayer from 'react-player/lazy';
 
 ## Overview
 
-The Document Repository allows you to access and download digitally stored documents.
+The File Repository allows you to access and download digitally stored files.
 
-Documents are stored within a folder structure. You can **quickly drill down to find the documents** you require.
+Files are stored within a **folder structure**, making it easy to find what you need.
 
-
-**How do I access the Document Repository?**
+**How do I access the File Repository?**
 
 Navigate to the File Repository via the main menu. Select a workspace and the relevant task.
 
-All documentation uploaded to that task will be displayed.
+All file uploads to that task will be displayed
 
 :::note
-Access is based on user permissions.
+File access is based on user permissions.
 :::
 
-#### Documents Repo
+#### File Repository
 
   <ReactPlayer 
   url='https://vimeo.com/473819338/a03251705d'

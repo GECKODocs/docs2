@@ -1,6 +1,6 @@
 ---
 id: reporting
-title: Reporting
+title: Reporting Overview
 sidebar_label: Overview
 ---
 
@@ -34,8 +34,7 @@ Selecting a workspace in the dropdown will display high level summary data for t
 - **KPI**
 The filter sets you created on the Tasks page are displayed in the dropdown. Select Summary or Table view depending on how you wish to display the tasks.
 
-Your report will be available for preview in the pdf viewer, where you can print or download your report.
-
+Your report will be available for preview in the pdf viewer, where you can print or download it.
 
 #### Creating and using Reports
 

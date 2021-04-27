@@ -8,7 +8,7 @@ import ReactPlayer from 'react-player/lazy';
 
 ## Create a Task
 
-Click ‘**Add New**’ within a workflow stage and enter the relevant information.
+Click ‘**Add Task**’ within a workflow stage and enter the relevant information.
 
 :::tip tip
 You can use the task **Period** field to specify the **period of time the work relates to**. This enables you to search for and report on the task based on **when the work was carried out**, rather than on the Due Date of the task.
@@ -46,7 +46,7 @@ You can use the task **Period** field to specify the **period of time the work r
 ## Subtasks
 A subtask is just like a **regular task** and has all the same fields and functionality, except for ‘Repetition Time’.
 
-Create a subtask by clicking ‘**Create Subtask**’.
+Create a subtask by clicking ‘**Add Subtask**’.
 
 **When should I create a subtask?**
 

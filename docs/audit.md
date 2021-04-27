@@ -1,18 +1,18 @@
 ---
-id: audits
-title: Audits Overview
+id: audit
+title: Audit Overview
 sidebar_label: Overview
 ---
 
 import ReactPlayer from 'react-player/lazy';
 
-## Audits
+## Audit
 
-- **Project**
-A dropdown field whereby audit entries for selected project will be displayed. All projects selected by default.
+- **Workspace**
+A dropdown field whereby audit entries for selected workspaces will be displayed. All workspaces selected by default.
 
 - **Task**
-A dropdown field whereby audit entries for a specific task in selected project will be displayed. All tasks selected by default.
+A dropdown field whereby audit entries for a specific task in selected workspace will be displayed. All tasks selected by default.
 
 - **Iteration**
 A dropdown field whereby audit entries for a specific iteration of selected task [if recurring] will be displayed. All iterations selected by default.

@@ -1,6 +1,6 @@
 ---
 id: tasks
-title: Tasks
+title: Tasks Overview
 sidebar_label: Overview
 ---
 

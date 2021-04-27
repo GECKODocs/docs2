@@ -1,6 +1,6 @@
 ---
 id: users
-title: Users
+title: Users Overview
 sidebar_label: Overview
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: pre_configuration
-title: Project Configuration
+title: Workspace Configuration
 sidebar_label: Preconfiguration
 ---
 

@@ -37,4 +37,4 @@ If you don’t want to see popup warnings when deleting task comments, check thi
 ### Workspace Settings
 
 #### Minimise task cards
-If you want to minimise all task cards on project view by default, check this box.
+If you want to minimise all task cards on workspace view by default, check this box.

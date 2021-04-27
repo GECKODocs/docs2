@@ -6,7 +6,7 @@ sidebar_label: Overview
 
 import ReactPlayer from 'react-player/lazy';
 
-## Workspace Status
+## Workspace Status Graph
 
 Select a **Workspace** in the dropdown and filter the graph using the status selectors.
 
