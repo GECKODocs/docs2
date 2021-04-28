@@ -76,7 +76,9 @@ By default, the Group dropdown is set to None.
 
 Selecting an option in the **Group dropdown** will group the results of the Display dropdown.
 
-:::info For example
+:::info example
+### **Task status across all Workspaces**
+
 Without selecting any **high level filters**, sort by **Status** in the Display dropdown and group by **Project** in Group dropdown.
 
 A set of graphs of all tasks by status, across all projects will be displayed.

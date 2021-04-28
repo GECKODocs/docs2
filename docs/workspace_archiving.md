@@ -13,6 +13,7 @@ You can Archive a Workspace by clicking the **Workspace Options dropdown** and s
 The tasks within your Archived Workspace will now remain in a **Read-Only** state until the Workspace is Unarchived. The tasks will no longer show up across the application or be included in reporting, i.e. on the Dashboard, on the Tasks quick finder tab, etc.
 
 **How do I view Archived Workspaces?**
+
 You can view all Archived Workspaces by navigating to Browse Workspaces and clicking **Archive**.
 
 **How do I Unarchive a Workspace?**
