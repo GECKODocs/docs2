@@ -133,3 +133,18 @@ Click into any task and navigate to the Tag section to label that task with a Ta
 Use the above example Tags when dealing with any issues that may have arisen from a task. 
 
 Again, these tagged tasks can be aggregated and presented at a board or committee meeting. Used in conjunction with task comments, this can be a powerful way of streamlining your reporting function.
+
+## File Request
+To access the File Request feature, click on the Files tab on any task.
+
+
+- To create a new file request, click **Add**.
+- Enter the file title and the name and email of the person you wish to request a file from.
+- Click **Save**.
+
+
+You can update the request or if you’re ready to send, click the **send** icon.
+
+Uploaded files will automatically be attached to the task when supplied.
+
+File request status can be tracked via the task.

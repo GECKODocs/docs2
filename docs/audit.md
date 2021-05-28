@@ -23,10 +23,10 @@ A dropdown field whereby audit entries for a specific subtask in selected task w
 - **User**
 A dropdown field whereby audit entries for a specific user assigned to selected task will be displayed. All assigned users selected by default.
 
-- **From**
+- **Due Date from**
 A date-picker whereby audit entries dated on or after the selected date will be displayed.
 
-- **To**
+- **Due Date to**
 A date-picker whereby audit entries dated on or before the selected date will be displayed.
 
 #### Using Audits

@@ -18,6 +18,9 @@ Clicking on a task will display further high-level details – from this pop-up 
 
 You can view the Calendar in different time formats using the menu options.
 
+:::tip 
+You can update task due dates by dragging and dropping tasks on the calendar.
+:::
 #### Using Calendar
 
   <ReactPlayer 

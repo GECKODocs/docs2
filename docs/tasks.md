@@ -6,6 +6,19 @@ sidebar_label: Overview
 
 import ReactPlayer from 'react-player/lazy';
 
+## Filter Sets
+
+If you find yourself often returning to search for tasks using the same criteria, you can create a filter set. Each filter set will be **updated in real time** with tasks that meet your specified criteria.
+
+To **create** a filter set, simply enter your search criteria and click **Save**.
+
+To view the retrieved tasks, click on a filter set.
+
+
+:::tip Tip
+Filter sets are at the core of what makes up the Reporting Engine and Dashboard KPIs. The filter sets you create can be added to the dashboard or used to build up sections of a report.
+:::
+
 ## Task Filter
 
 You can filter and search for tasks across a range of criteria, which include:
@@ -28,6 +41,8 @@ A multi-select field whereby tasks with the selected period will be displayed. A
 A date-picker whereby tasks with a due date on or after the selected date will be displayed.
 - **Due Date to**
 A date-picker whereby tasks with a due date on or before the selected date will be displayed.
+- **ID**
+A search field where you can type tasks IDs to find specific tasks.
 - **Tasks with comments**
 A checkbox allowing the option to only display tasks with comments.
 - **Tasks with files**
@@ -65,6 +80,14 @@ Use the multi-select Period dropdown to search for tasks within a specific quart
 <br/>
 <br/>
 
+## Bulk Actions
+
+#### Bulk Complete
+
+Select or deselect all tasks using the buttons provided. Select individual tasks by holding **Ctrl** or **Cmd** on your keyboard and **clicking** tasks with your mouse.
+
+Clicking Mark as Complete will complete all selected in progress or overdue tasks. This action also completes any subtasks attached to selected tasks.
+
 ## Summary Tab
 #### Display
 By default, the Summary tab displays all tasks returned in the Table tab, sorted by task status.
@@ -84,15 +107,3 @@ Without selecting any **high level filters**, sort by **Status** in the Display 
 A set of graphs of all tasks by status, across all projects will be displayed.
 :::
 
-## Filter Sets
-
-If you find yourself often returning to search for tasks using the same criteria, you can create a filter set. Each filter set will be **updated in real time** with tasks that meet your specified criteria.
-
-To **create** a filter set, simply enter your search criteria and click **Save**.
-
-To view the retrieved tasks, click on a filter set.
-
-
-:::tip Tip
-Filter sets are at the core of what makes up the Reporting Engine and Dashboard KPIs. The filter sets you create can be added to the dashboard or used to build up sections of a report.
-:::

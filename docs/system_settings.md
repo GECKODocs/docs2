@@ -11,6 +11,9 @@ Access to System Settings will depend on your permission level and is currently 
 
 ### Features
 
+#### Enable Votes
+If you want to enable the voting functionality within tasks, check this box.
+
 #### Enable Task Chart on Dashboard
 If you want to enable the Task Status Timeline chart on the dashboard, check this box.
 
@@ -21,6 +24,10 @@ If you want to enable the Task Status Timeline chart on the dashboard, check thi
 #### Enable Reporting
 If you want to enable the Reporting Engine, check this box.
 
+### Tasks
+
+#### Restrict to work days
+If you want to restrict due dates to selected work days when creating or updating a task, check this box.
 
 
 ### Repeat Tasks
@@ -31,6 +38,10 @@ If you don’t want Tags to be copied over when generating new iterations in a r
 
 #### Copy comments to repeat tasks
 If you want comments to be copied over when generating new iterations in a repeating task series, check this box.
+
+
+#### Restrict to work days
+If you want to restrict due dates for repeat tasks to only fall on selected work days, check this box.
 
 
 #### Period on repeat task

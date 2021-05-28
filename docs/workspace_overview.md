@@ -6,7 +6,7 @@ sidebar_label: Overview
 
 import ReactPlayer from 'react-player/lazy';
 
-## Browse Workspaces
+## Workspaces
 
 This area allows you to oversee the Workspaces **assigned** to you. You can **create** Workspaces, **view** Archived Workspaces and **filter** view by Category.
 

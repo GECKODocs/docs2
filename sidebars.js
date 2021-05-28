@@ -5,10 +5,10 @@ module.exports = {
     "Workspaces": ["pre_configuration", "workspace_overview", "workspace_tasks", "workspace_archiving"],
     "Tasks" : ["tasks"],
     "Reporting" : ["reporting"],
-    "Calendar" : ["calendar"],
     "Audit" : ["audit"],
+    "Calendar" : ["calendar"],
     "File Repository" : ["file_repository"],
-    "Users" : ["users"],
+    //"Users" : ["users"],
     
   },
   
