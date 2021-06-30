@@ -148,3 +148,33 @@ You can update the request or if you’re ready to send, click the **send** icon
 Uploaded files will automatically be attached to the task when supplied.
 
 File request status can be tracked via the task.
+
+### Auto close task
+If you want to auto-close a task when all requested files are received, check this box.
+
+## Votes
+
+To access the Vote feature, click on the Votes tab on any task.
+
+- To create a new Vote, click **Add** Vote.
+- Enter the title, description, start date and end date.
+- Click **Save**.
+
+To start building a vote, click on a vote title.
+
+### Details
+The Details tab displays the vote and response summary.
+
+### Design
+The Design tab is where you build and preview the vote.
+
+To add a field to the vote, click Add Field.
+
+- **Information**: This field is a static display text field, e.g. for section headings or subheadings.
+- **Text**: This field is a single-line input field, e.g. where a participant can enter short-form or single-line text.
+- **Paragraph**: This field is a multi-line input field, e.g. where a participant can enter long-form or multi-line text.
+- **Choice**: This field is a single-select dropdown field, e.g. where a participant can select an option from a dropdown list.
+
+### Participants
+The Participants tab is where vote participants are configured.
+

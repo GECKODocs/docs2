@@ -1,7 +1,7 @@
 ---
-id: pre_configuration
-title: Workspace Configuration
-sidebar_label: Preconfiguration
+id: setup
+title: Setup Overview
+sidebar_label: Overview
 ---
 
 import ReactPlayer from 'react-player/lazy';

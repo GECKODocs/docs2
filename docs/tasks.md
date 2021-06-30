@@ -47,6 +47,11 @@ A search field where you can type tasks IDs to find specific tasks.
 A checkbox allowing the option to only display tasks with comments.
 - **Tasks with files**
 A checkbox allowing the option to only display tasks with files attached.
+- **Tasks with tags**
+A checkbox allowing the option to only display tasks with tags.
+- **Tasks with votes**
+A checkbox allowing the option to only display tasks votes.
+
 
 #### Tasks Filter
 
@@ -92,7 +97,7 @@ Clicking Mark as Complete will complete all selected in progress or overdue task
 #### Display
 By default, the Summary tab displays all tasks returned in the Table tab, sorted by task status.
 
-In the Display dropdown, you can choose to view all tasks sorted by Status or by User. 
+To sort the tasks results, you can select an option in the Display dropdown.
 
 #### Group
 By default, the Group dropdown is set to None.

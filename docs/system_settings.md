@@ -8,6 +8,10 @@ sidebar_label: System Settings
 Access to System Settings will depend on your permission level and is currently limited to Admin and Manager level users.
 :::
 
+### Application
+#### Application Title
+Text in this field will be used as the name of the application, in outgoing emails.
+
 
 ### Features
 
@@ -17,6 +21,8 @@ If you want to enable the voting functionality within tasks, check this box.
 #### Enable Task Chart on Dashboard
 If you want to enable the Task Status Timeline chart on the dashboard, check this box.
 
+#### Enable File Request
+If you want to enable the file request feature within tasks, check this box.
 
 
 ### Reports
