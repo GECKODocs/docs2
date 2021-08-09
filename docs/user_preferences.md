@@ -38,3 +38,8 @@ If you don’t want to see popup warnings when deleting task comments, check thi
 
 #### Minimise task cards
 If you want to minimise all task cards on workspace view by default, check this box.
+
+
+### Notifications
+#### Workspace
+If you want to receive notifications when you are added to a Workspace, check this box.

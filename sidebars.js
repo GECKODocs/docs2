@@ -2,7 +2,7 @@ module.exports = {
   someSidebar: {
     "Getting Started": ["getting_started","next_steps","user_preferences", "system_settings"],
     "Dashboard": ["dashboard"],
-    "Workspaces": ["workspace_overview", "workspace_tasks", "workspace_archiving"],
+    "Workspaces": ["workspace_overview", "workspace_tasks", "workspace_archiving", "workspace_templates"],
     "Tasks" : ["tasks"],
     "Reporting" : ["reporting"],
     "Audit" : ["audit"],
