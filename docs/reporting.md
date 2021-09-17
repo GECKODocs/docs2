@@ -14,6 +14,13 @@ To create a new report, simply click **Add Report**.
 
 Enter a title and click **Save**.
 
+## Email Notification
+
+When creating or editing a report, you can schedule an emailed report to be sent to you at regular intervals.
+
+Simply select the interval frequency and specify the day or date.
+
+
 ## Add Section
 
 Click on your new report and the report section builder will be displayed.

@@ -178,3 +178,7 @@ To add a field to the vote, click Add Field.
 ### Participants
 The Participants tab is where vote participants are configured.
 
+
+### Comments
+The Comments tab is where vote comments will appear.
+

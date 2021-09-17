@@ -23,16 +23,20 @@ Filter sets are at the core of what makes up the Reporting Engine and Dashboard 
 
 You can filter and search for tasks across a range of criteria, which include:
 
-- **Workspace** 
+### Workspaces
+
+- **Title** 
 A multi-select field whereby tasks across all selected workspaces will be displayed. All workspaces selected when field is empty.
 - **Stage**
 A multi-select field whereby tasks across all selected stages will be displayed. All stages selected when field is empty.
-- **User**
-A multi-select field whereby tasks where the selected user is an assignee will be displayed. All users selected when field is empty.
+- **Status** 
+A multi-select field whereby tasks across all Workspaces with the selected status will be displayed. All Workspace statuses selected when field is empty.
+
+### Task
+
+
 - **Title**
 A search field where you can type all or a portion of a task title to find tasks.
-- **Tags**
-A multi-select field whereby tasks labelled with selected tags will be displayed. All tags selected when field is empty.
 - **Status**
 A multi-select filter whereby tasks with the selected status will be displayed. Tasks of all statuses displayed by default.
 - **Period**
@@ -41,6 +45,10 @@ A multi-select field whereby tasks with the selected period will be displayed. A
 A date-picker whereby tasks with a due date on or after the selected date will be displayed.
 - **Due Date to**
 A date-picker whereby tasks with a due date on or before the selected date will be displayed.
+- **User**
+A multi-select field whereby tasks where the selected user is an assignee will be displayed. All users selected when field is empty.
+- **Tags**
+A multi-select field whereby tasks labelled with selected tags will be displayed. All tags selected when field is empty.
 - **ID**
 A search field where you can type tasks IDs to find specific tasks.
 - **Tasks with comments**
