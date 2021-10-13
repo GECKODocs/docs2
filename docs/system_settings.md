@@ -24,6 +24,10 @@ If you want to enable the Task Status Timeline chart on the dashboard, check thi
 #### Enable File Request
 If you want to enable the file request feature within tasks, check this box.
 
+#### Enable Due Diligence Questionnaire
+If you want to enable the Survey feature, check this box.
+
+
 
 ### Reports
 
