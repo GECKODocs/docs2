@@ -45,6 +45,11 @@ A multi-select field whereby tasks with the selected period will be displayed. A
 A date-picker whereby tasks with a due date on or after the selected date will be displayed.
 - **Due Date to**
 A date-picker whereby tasks with a due date on or before the selected date will be displayed.
+- **Completed from**
+A date-picker whereby tasks completed on or after the selected date will be displayed.
+- **Completed to**
+A date-picker whereby tasks completed on or before the selected date will be displayed.
+
 - **User**
 A multi-select field whereby tasks where the selected user is an assignee will be displayed. All users selected when field is empty.
 - **Tags**

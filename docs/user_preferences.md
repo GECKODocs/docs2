@@ -34,6 +34,10 @@ If you don’t want to see popup warnings when deleting checklist items, check t
 #### Comment Deletion
 If you don’t want to see popup warnings when deleting task comments, check this box.
 
+#### Workspace Member Deletion
+If you don’t want to see popup warnings when deleting Workspace members, check this box.
+
+
 ### Workspace Settings
 
 #### Minimise task cards
