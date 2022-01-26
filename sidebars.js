@@ -8,7 +8,9 @@ module.exports = {
     "Audit" : ["audit"],
     "Calendar" : ["calendar"],
     "Survey":["survey"],
+    "Contacts":["contacts"],
     "File Repository" : ["file_repository"],
+    "Notices":["notices"],
     "Setup": ["setup"],
     "API": ["api"]
     //"Users" : ["users"]
