@@ -29,5 +29,5 @@ Notices section has the list of templates used to sent out collective notices wi
 Messages section describes the list of individual emails/ notices sent out the recipients including the content and timestamp.
 
 :::note
-The difference between Notices and Messages section is that the latter shows the actual content used while sending the notice whereas notices gives the definition of the template used.
+The difference between Notices and Messages section is that the latter shows the actual content used while sending whereas notices gives the definition of the template used.
 :::

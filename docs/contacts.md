@@ -10,7 +10,7 @@ sidebar_label: Overview
 Think of Contacts section as a bucket to hold the contact information of all the users in the system with ability to send them emails in a few clicks.
 
 ### Contacts 
-To create a contacts click **Add Contact** and enter all the relevant contacts information in the form and hit Save button.
+To create a contacts click **Add Contact** and enter all the relevant contacts information in the form and hit **Save** button.
 
 You can assign multiple tags and groups to a contact.
 
@@ -21,7 +21,7 @@ Please get familiar with [Notices](notices) section before proceeding to send no
 
 ### Tags 
 
-To create a tag click **Add Tag** and enter the title and pick the color palette in the form before proceeding to save.
+To create a tag click **Add Tag** and enter the title and pick the color palette in the form before hitting the save.
 
 ### Groups
 
