@@ -47,3 +47,11 @@ If you want to minimise all task cards on workspace view by default, check this 
 ### Notifications
 #### Workspace
 If you want to receive notifications when you are added to a Workspace, check this box.
+
+
+### API Access
+
+**API Token**
+
+If you woulk like to access GECKOs APIs and bring automation please copy your unique token and refer to 
+<a href="https://app.swaggerhub.com/apis/GeckoGovernance/api/0.1">API Documentation</a>
