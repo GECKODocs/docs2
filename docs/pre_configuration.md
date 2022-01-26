@@ -52,3 +52,8 @@ We recommend our clients start with 10 - 15 Tags to encourage consistency across
 - Red Flag
 
 Please contact a member of the GECKO team if you would like to discuss Tags that are more specific to your business processes.
+
+
+## System settings
+
+To learn more about system settings go [here](system_settings)
